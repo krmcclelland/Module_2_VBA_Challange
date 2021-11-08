@@ -17,6 +17,10 @@ There was a significant contrast between 2017 over 2018.  By far, 2017 was a bet
 
 To use the VBA code to analyze future investments, we have refactored or indexed the code to reduce the time it takes to analyze investment to react faster to investment opportunities. In addition, we inserted code to monitor the time it takes to run the code below shows the before and after the code is indexed.  The run time figures below on the left are before the indexing, and the right is after the indexing. 
 
+### Refactoring
+
+
+
                 Before Indexing                         After Indexing
 ![2017_Code_Run_Time](https://user-images.githubusercontent.com/17502725/140571307-9c59189e-5884-47f2-95be-8296a652a609.PNG) ![B_2017_Code_Run_Time](https://user-images.githubusercontent.com/17502725/140571325-6e29340f-9778-49ce-a0b3-0d9331f8b801.PNG)
 
