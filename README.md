@@ -1,5 +1,5 @@
 # VBA Challange
-
+   
 ## Background:
 The client is interested in investing in green stocks and has been monitoring the stock market for a stock called DQ but needs to analyze other green stocks for the past two years to ensure it is the best stock for their investment dollars.  The client provided a list of twelve (12) stocks to review captured on a spreadsheet.  To continue our evaluation, we also need to refactor or index the code to speed up the code's run time.
 
@@ -43,5 +43,5 @@ Refactoring the code, has decreased the time it takes to run the code.  To use t
 ## Conclusion:
 Refactoring has streamlined the code with and the run time without effecting the external functionality making it easier to evaluate the potential green investments.  In preforming the analysis, it is concluded ENPH and RUN produced better returns than DQ for a conservative investor and should be considered as future investment opportunities. The code can be used to run analysis in the future and on additional stock.   
 
-Footer
+### Footer
 ^[1] https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/#:~:text=Code%20Refactoring%20is%20an%20important%20exercise%20to%20remove,the%20development%20and%20is%20prone%20to%20more%20defects.
