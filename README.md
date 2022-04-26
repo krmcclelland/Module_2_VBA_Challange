@@ -1,6 +1,6 @@
 # VBA Challange
    
-## Background:
+## Overview:
 The client is interested in investing in green stocks and has been monitoring the stock market for a stock called DQ but needs to analyze other green stocks for the past two years to ensure it is the best stock for their investment dollars.  The client provided a list of twelve (12) stocks to review captured on a spreadsheet.  To continue our evaluation, we also need to refactor or index the code to speed up the code's run time.
 
 ## Analysis Results: 
